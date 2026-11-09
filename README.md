@@ -27,7 +27,3 @@ Bulk RNA-seq of hippocampus and cortex from transgenic and wildtype 5xFAD mice a
 pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 ```
-
-## Authors
-
-Miret Farag, Emmanouil I. Athanasiadis, Dionisis Cavouras
